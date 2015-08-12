@@ -57,4 +57,5 @@ Simply use the <code>gulp</code> command and work on the <code>/dev</code> folde
 ## Updates
 
 Added "Fail" Reporter to jshint, so the build process will fail if there are errors while linting.
+
 Updated .gitignore folders to include /public
