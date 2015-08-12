@@ -1,0 +1,22 @@
+{
+  "name": "WebBase",
+  "version": "0.0.1",
+  "authors": [
+    "royboy"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "dev/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "modernizr": "~2.8.3",
+    "handlebars": "~3.0.3"
+  }
+}
