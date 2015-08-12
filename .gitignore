@@ -1,5 +1,5 @@
 node_modules
-app/bower_components
-app/.tmp
-dist
+dev/bower_components
+dev/.tmp
+public
 .DS_Store
